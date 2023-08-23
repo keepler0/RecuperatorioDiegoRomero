@@ -1,0 +1,12 @@
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Entidades\bin\Debug\Neptuno2023.Entidades.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Entidades\bin\Debug\Neptuno2023.Entidades.pdb
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Entidades\obj\Debug\Neptuno2023.Entidades.csproj.AssemblyReference.cache
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Entidades\obj\Debug\Neptuno2023.Entidades.csproj.CoreCompileInputs.cache
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Entidades\obj\Debug\Neptuno2023.Entidades.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Entidades\obj\Debug\Neptuno2023.Entidades.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Entidades\bin\Debug\Neptuno2023.Entidades.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Entidades\bin\Debug\Neptuno2023.Entidades.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Entidades\obj\Debug\Neptuno2023.Entidades.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Entidades\obj\Debug\Neptuno2023.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Entidades\obj\Debug\Neptuno2023.Entidades.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Entidades\obj\Debug\Neptuno2023.Entidades.pdb

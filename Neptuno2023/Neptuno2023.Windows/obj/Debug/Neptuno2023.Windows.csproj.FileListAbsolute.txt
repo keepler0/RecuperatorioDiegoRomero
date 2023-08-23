@@ -1,0 +1,75 @@
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.csproj.AssemblyReference.cache
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.Properties.Resources.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.csproj.GenerateResource.cache
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.csproj.CoreCompileInputs.cache
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmBuscarCiudades.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmCategorias.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmCategoriasAE.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmCiudades.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmCiudadesAE.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmClientes.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmClientesAE.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmMenuPrincipal.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmPaises.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmPaisesAE.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmProductos.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmProductosAE.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmProveedores.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmProveedoresAE.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Windows.exe.config
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Windows.exe
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Windows.pdb
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Comun.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Entidades.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Servicios.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Datos.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\ShockwaveFlashObjects.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\stdole.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Comun.pdb
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Entidades.pdb
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Servicios.pdb
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Datos.pdb
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.csproj.CopyComplete
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.exe
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.pdb
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmBuscarGente.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.frmCompras.resources
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.frmVentas.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Windows.exe.config
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Windows.exe
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Windows.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Comun.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Entidades.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Servicios.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Datos.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\stdole.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Comun.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Entidades.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Servicios.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\bin\Debug\Neptuno2023.Datos.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmBuscarCiudades.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmBuscarGente.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmCategorias.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmCategoriasAE.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmCiudades.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmCiudadesAE.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmClientes.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmClientesAE.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.frmCompras.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmMenuPrincipal.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmPaises.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmPaisesAE.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmProductos.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmProductosAE.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmProveedores.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.FrmProveedoresAE.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.frmVentas.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.Properties.Resources.resources
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.csproj.CopyComplete
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.exe
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Windows\obj\Debug\Neptuno2023.Windows.pdb

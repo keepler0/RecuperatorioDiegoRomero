@@ -1,0 +1,22 @@
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Datos.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Datos.pdb
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Comun.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Entidades.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Comun.pdb
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Entidades.pdb
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\obj\Debug\Neptuno2023.Datos.csproj.AssemblyReference.cache
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\obj\Debug\Neptuno2023.Datos.csproj.CoreCompileInputs.cache
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\obj\Debug\Neptuno2023.Datos.csproj.CopyComplete
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\obj\Debug\Neptuno2023.Datos.dll
+D:\Codigo\Seminario 2023\Neptuno2023\Neptuno2023.Datos\obj\Debug\Neptuno2023.Datos.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Datos.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Datos.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Comun.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Entidades.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Comun.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\bin\Debug\Neptuno2023.Entidades.pdb
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\obj\Debug\Neptuno2023.Datos.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\obj\Debug\Neptuno2023.Datos.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\obj\Debug\Neptuno2023.Datos.csproj.CopyComplete
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\obj\Debug\Neptuno2023.Datos.dll
+C:\Users\diego\Desktop\recuperatorioDeDiegoRomero\Neptuno2023\Neptuno2023.Datos\obj\Debug\Neptuno2023.Datos.pdb
